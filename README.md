@@ -20,3 +20,11 @@ we use the `<ch1>`
 we use `<sellect>`  
 
 we use `<div>`  
+``` cmd
+git clone <url>
+```
+``` javascript 
+console.log("Hello")
+```
+
+
