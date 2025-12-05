@@ -13,4 +13,10 @@ block and nested code
 >>age
 bullet
 - iteam 1  
-  - subiteam  
+  - subiteam
+inline code
+we use the `<ch1>`
+
+we use `<sellect>`  
+
+we use `<div>`  
