@@ -1,6 +1,8 @@
-# noella
+# noella  
+---
 my frist pro 
-# Heading 1
+# Heading 1  
+---
 ## Heading 2
 ### Heading 3
 #### Heading 4
@@ -9,12 +11,14 @@ my *frist* repro
 my **frist** repro  
 my ***frist*** reoro
 block and nested code  
+---
 >name
 >>age
 bullet
 - iteam 1  
   - subiteam
 inline code
+---
 we use the `<ch1>`
 
 we use `<sellect>`  
